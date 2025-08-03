@@ -1,0 +1,12 @@
+(myenv) PS C:\Users\User\Desktop\LLM_Assignment_Level1> python chatbot1.py
+Welcome to the LLM-Only Smart Assistant.
+Ask me anything (or type 'quit' to exit).
+
+> who is the prime minister of india
+
+Narendra Modi is the current Prime Minister of India.
+
+
+> what is 12 times 33
+
+I am a language model and not equipped to perform mathematical calculations. You would need a calculator tool for that
